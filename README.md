@@ -8,5 +8,6 @@
   <li>Remove books from local storage</li>
 </ul>
 
-<h4>Enjoy it</h4>
+<h3>Enjoy it</h3>
+<a href="https://www.adymoloca.com/app/add-book/" target="_blank">View Demo<a/><br>
 <code>Credits: Adrian Moloca</code>
